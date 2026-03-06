@@ -2,6 +2,24 @@
 	path = .registry
 	url = https://github.com/mkanai/mkanai.r-universe.dev
 	branch = HEAD
+[submodule "GCSanndataR"]
+	path = GCSanndataR
+	url = https://github.com/mkanai/GCSanndataR
+[submodule "WRShd"]
+	path = WRShd
+	url = https://github.com/mkanai/WRShd
+[submodule "ccmatch"]
+	path = ccmatch
+	url = https://github.com/mkanai/ccmatch
 [submodule "fasthurdle"]
 	path = fasthurdle
 	url = https://github.com/mkanai/fasthurdle
+[submodule "grimon"]
+	path = grimon
+	url = https://github.com/mkanai/grimon
+[submodule "locusviz"]
+	path = locusviz
+	url = https://github.com/mkanai/locusviz
+[submodule "rbcor"]
+	path = rbcor
+	url = https://github.com/mkanai/rbcor
