@@ -8,6 +8,9 @@
 [submodule "WRShd"]
 	path = WRShd
 	url = https://github.com/mkanai/WRShd
+[submodule "cascade"]
+	path = cascade
+	url = https://github.com/mkanai/cascade
 [submodule "ccmatch"]
 	path = ccmatch
 	url = https://github.com/mkanai/ccmatch
